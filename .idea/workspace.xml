@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce5be323-7063-4305-9435-b3e9d889743e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1l8tPJIwoUKLS1a5iB7lmbCEEH1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/var/www/html/testApi" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce5be323-7063-4305-9435-b3e9d889743e" name="Default Changelist" comment="" />
+      <created>1606990520738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606990520738</updated>
+      <workItem from="1606990522102" duration="10769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1847" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606991373118">
+      <screen x="1360" y="0" width="1366" height="768" />
+    </state>
+    <state x="1847" y="155" width="424" height="491" key="FileChooserDialogImpl/1360.0.1366.768/42.27.1318.741@1360.0.1366.768" timestamp="1606991373118" />
+    <state x="1859" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1606996561793">
+      <screen x="1360" y="0" width="1366" height="768" />
+    </state>
+    <state x="1859" y="323" width="399" height="156" key="NewPhpFileDialog/1360.0.1366.768/42.27.1318.741@1360.0.1366.768" timestamp="1606996561793" />
+    <state x="1709" y="134" width="709" height="526" key="find.popup" timestamp="1606993228281">
+      <screen x="1360" y="0" width="1366" height="768" />
+    </state>
+    <state x="1709" y="134" width="709" height="526" key="find.popup/1360.0.1366.768/42.27.1318.741@1360.0.1366.768" timestamp="1606993228281" />
+    <state x="1789" y="311" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606993520380">
+      <screen x="1360" y="0" width="1366" height="768" />
+    </state>
+    <state x="1789" y="311" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1360.0.1366.768/42.27.1318.741@1360.0.1366.768" timestamp="1606993520380" />
+  </component>
+</project>

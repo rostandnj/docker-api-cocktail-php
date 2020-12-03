@@ -1,0 +1,22 @@
+version: '3.7'
+services:
+  php:
+    container_name: php
+    build: ./php-fpm
+    ports:
+      - "9001:9001"
+    volumes:
+      - /var/www/html/testApi:/var/www/testApi #le repertoire avant le ":" c'est où est situé ton projet dans ton pc et l'autre c'est l'équivalent dans le container
+  nginx:
+    network_mode: "host"
+    container_name: nginx
+    build: ./nginx
+    ports:
+      - "81:80"
+    depends_on:
+      - php
+    volumes:
+      - ./logs/nginx:/var/log/nginx
+      - /var/www/html/testApi:/var/www/testApi
+
+

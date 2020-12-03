@@ -1,0 +1,6 @@
+pour lancer la pile des containeurs, tu te places à la racine du projet et tu tapes
+docker-compose build (si tout est ok, tu tapes ensuite)
+docker-compose up et là tout sera lancé
+le repertoire testApi contient l'application php
+essayes de parcourir , c'est vraiment simple
+j'ai utilisé bootstrap juste pour la mise en forme
