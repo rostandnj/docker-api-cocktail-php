@@ -1,3 +1,4 @@
+tu pourras choisir un emplacement différent pour ce repertoire si tu veux /var/www/html/testApi
 pour lancer la pile des containeurs, tu te places à la racine du projet et tu tapes
 docker-compose build (si tout est ok, tu tapes ensuite)
 docker-compose up et là tout sera lancé
